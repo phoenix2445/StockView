@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StockView</string>
+    <string-array name="operator_options">
+        <item>&lt;</item>
+        <item>&gt;</item>
+        <item>&lt;=</item>
+        <item>&gt;=</item>
+    </string-array>
+
+</resources>
